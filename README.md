@@ -51,4 +51,4 @@ In this step, I built a flask API endpoint that was hosted on a local webserver 
 
 # Credit
 
-I like to thank Ken Jee for his guidance also I have used this guide for flask api : (https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
+I like to thank Ken Jee for his guidance also I have used this guide for flask api : https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
